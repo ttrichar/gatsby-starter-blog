@@ -1,4 +1,4 @@
-name: ttrichar/gatsby-starter-blog
+name: Gatsby Blog Build/Release
 
 on:
   push:
